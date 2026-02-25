@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpeg" width="220" style="border-radius:50%;">
+  <img src="assets/profile.jpeg" width="220">
 </p>
 <p align="center">
   <strong>B.Sc. (Hons.) Physics</strong><br>
