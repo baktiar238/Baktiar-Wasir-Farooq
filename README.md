@@ -24,6 +24,11 @@ I aspire to pursue a Ph.D. in theoretical high energy physics and contribute to 
 
 ### Quantum Information Theoretic Approaches to Neutrino Oscillations  
 **Bachelor Thesis Project**  
+
+<p align="center">
+  <img src="assets/thesis.jpeg" width="220" style="border-radius:50%;">
+</p>
+
 Collaboration with University of Salerno (Italy)
 
 Supervisors:  
@@ -44,6 +49,10 @@ The goal is to bridge particle mixing phenomena with quantum correlation theory.
 ---
 
 ### NeutrinoOsc3Flavor — CP Phase Dependence in Three-Flavor Oscillations
+
+<p align="center">
+  <img src="assets/neutrinoOsc3Flavor_pic.png" width="220" style="border-radius:50%;">
+</p>
 
 This project involves computational and analytical modeling of three-flavor neutrino oscillations in matter.
 
@@ -78,7 +87,7 @@ This work demonstrates how quantum information tools may act as probes of high-e
 ### Research Internship — Jawaharlal Nehru University
 
 <p align="center">
-  <img src="assets/IAC_Internship.jpeg" width="220" style="border-radius:50%;">
+  <img src="assets/SEC_Internship.jpeg" width="220" style="border-radius:50%;">
 </p>
 
 Worked on quantum information approaches to neutrino oscillations, focusing on:
@@ -117,6 +126,9 @@ The project connects geometric CP-trajectory representations with quantitative C
 - Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum-Gravity Interactions (Accepted for publication in Nuclear Physics B  )  
 
 - [Two-Flavor Neutrino Oscillation in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X) (Published in International Journal of Qauntum Information) 
+<p align="center">
+  <img src="assets/first_publish.jpeg" width="220" style="border-radius:50%;">
+</p>
 
 ---
 
