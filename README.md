@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="profile.jpeg" width="220">
+  <img src="assets/profile.jpeg" width="220" style="border-radius:50%;">
 </p>
-
 <p align="center">
   <strong>B.Sc. (Hons.) Physics</strong><br>
   Kirori Mal College, University of Delhi<br>
@@ -77,6 +76,10 @@ This work demonstrates how quantum information tools may act as probes of high-e
 ---
 
 ### Research Internship — Jawaharlal Nehru University
+
+<p align="center">
+  <img src="assets/IAC_Internship.jpeg" width="220" style="border-radius:50%;">
+</p>
 
 Worked on quantum information approaches to neutrino oscillations, focusing on:
 
