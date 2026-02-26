@@ -155,10 +155,10 @@ The project connects geometric CP-trajectory representations with quantitative C
   
   Bipin Singh Koranga, **Baktiar Wasir Farooq**, Pranav Kumar
 
-- [Two-Flavor Neutrino Oscillation in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X)  
-(Published in International Journal of Quantum Information)
+- [Two-Flavor Neutrino Oscillation in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X)  (Published in International Journal of    Quantum Information)
 
-Bipin Singh Koranga, **Baktiar Wasir Farooq**
+  Bipin Singh Koranga, **Baktiar Wasir Farooq**
+  
 </td>
 </tr>
 </table>
@@ -168,7 +168,7 @@ Bipin Singh Koranga, **Baktiar Wasir Farooq**
 # Computational & Academic Projects
 
 - Python-based simulations of quantum mechanical problems  
-- Solar spectrum data analysis (Astronomy & Astrophysics coursework)  
+- Solar spectrum data analysis (Astronomy & Astrophysics coursework) Grade: 12/12  
 - Construction of a working circular particle accelerator model  
 - Mathematical modeling of oscillatory systems  
 
