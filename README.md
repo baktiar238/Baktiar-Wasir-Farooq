@@ -1,5 +1,3 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
   <img src="assets/profile.jpeg" width="230" style="border-radius:0;">
 </p>
@@ -37,7 +35,8 @@ I aspire to pursue a Ph.D. in theoretical high energy physics and contribute to 
 </td>
 <td>
 
-### Quantum Information Theoretic Approaches to Neutrino Oscillations  
+## Quantum Information Theoretic Approaches to Neutrino Oscillations 
+
 **Bachelor Thesis Project**
 
 Collaboration with University of Salerno (Italy)
@@ -70,7 +69,7 @@ The goal is to bridge particle mixing phenomena with quantum correlation theory.
 </td>
 <td>
 
-### NeutrinoOsc3Flavor — CP Phase Dependence in Three-Flavor Oscillations
+## NeutrinoOsc3Flavor — CP Phase Dependence in Three-Flavor Oscillations
 
 This project involves computational and analytical modeling of three-flavor neutrino oscillations in matter.
 
@@ -82,7 +81,7 @@ Main contributions:
 - Development of Python-based research code  
 
 🔗 GitHub Repository:  
-https://github.com/baktiar238/NeutrinoOsc3Flavor
+[https://github.com/baktiar238/NeutrinoOsc3Flavor](https://github.com/baktiar238/NeutrinoOsc3Flavor)
 
 </td>
 </tr>
@@ -90,7 +89,7 @@ https://github.com/baktiar238/NeutrinoOsc3Flavor
 
 ---
 
-### Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum-Gravity Interactions
+## Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum-Gravity Interactions
 
 This research explores quantum-gravity–motivated corrections to neutrino oscillations using entanglement entropy as a diagnostic tool.
 
@@ -113,7 +112,7 @@ This work demonstrates how quantum information tools may act as probes of high-e
 </td>
 <td>
 
-### Research Internship — Jawaharlal Nehru University
+## Research Internship — Jawaharlal Nehru University
 
 Worked on quantum information approaches to neutrino oscillations, focusing on:
 
@@ -128,7 +127,7 @@ Worked on quantum information approaches to neutrino oscillations, focusing on:
 
 ---
 
-### SEC Research Internship — CP Violation in Long-Baseline Neutrino Experiments  
+## SEC Research Internship — CP Violation in Long-Baseline Neutrino Experiments  
 Jawaharlal Nehru University (SEC Programme)
 
 Supervisors:  
@@ -152,18 +151,14 @@ The project connects geometric CP-trajectory representations with quantitative C
 
 # Publications
 
-- Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum-Gravity Interactions (Accepted for publication in Nuclear Physics B)
-
-<table>
-<tr>
-<td width="170">
-<img src="assets/first_publish.jpeg" width="150" style="border-radius:0;">
-</td>
-<td>
+- [Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum-Gravity Interactions](https://lnkd.in/gU6bkRYg) (Published in Nuclear Physics B)
+  
+  Bipin Singh Koranga, **Baktiar Wasir Farooq**, Pranav Kumar
 
 - [Two-Flavor Neutrino Oscillation in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X)  
 (Published in International Journal of Quantum Information)
 
+Bipin Singh Koranga, **Baktiar Wasir Farooq**
 </td>
 </tr>
 </table>
@@ -172,7 +167,7 @@ The project connects geometric CP-trajectory representations with quantitative C
 
 # Computational & Academic Projects
 
-- Python-based simulations of quantum mechanical systems  
+- Python-based simulations of quantum mechanical problems  
 - Solar spectrum data analysis (Astronomy & Astrophysics coursework)  
 - Construction of a working circular particle accelerator model  
 - Mathematical modeling of oscillatory systems  
@@ -215,13 +210,13 @@ Astronomy & Astrophysics • Research Methodology
 Email: 2330238@kmc.du.ac.in  
 
 LinkedIn:  
-https://www.linkedin.com/in/baktiar-wasir-farooq-63b666258/
+[https://www.linkedin.com/in/baktiar-wasir-farooq-63b666258/](https://www.linkedin.com/in/baktiar-wasir-farooq-63b666258/)
 
 ORCID:  
-https://orcid.org/0009-0006-6491-6167  
+[https://orcid.org/0009-0006-6491-6167](https://orcid.org/0009-0006-6491-6167) 
 
 Inspire-HEP:  
-https://inspirehep.net/authors/3115378  
+[https://inspirehep.net/authors/3115378](https://inspirehep.net/authors/3115378)
 
 GitHub:  
-https://github.com/baktiar238
+[https://github.com/baktiar238](https://github.com/baktiar238)
